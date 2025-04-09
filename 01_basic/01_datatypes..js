@@ -1,6 +1,13 @@
 
 // Datatypes
 
+// number => 2 to power 53
+// bigint
+// string => ""
+// boolean = true/false
+// null standalone vlaue
+
+
 // string
 let name = "Omer";
 
@@ -13,7 +20,7 @@ let isTrue = false;
 // array
 let myarr = ['name',23,'age']
 
-// null which is standard value but its datatypes is object
+// null which is standalone value but its datatypes is object
 let a = null;
 
 // undiefined 
