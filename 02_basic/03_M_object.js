@@ -26,7 +26,8 @@ console.log(c);
 
 // another method
 
-let anMethod = Object.assign({}, obj1, obj2, obj3);
+let anMethod = Object.assign({}, obj1, obj2, obj3);.
+
 console.log(anMethod);
 
 // most of the time when fetching from database it give objects in array like this
